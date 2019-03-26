@@ -1,0 +1,24 @@
+{
+  "name": "blackbird",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "EdenCao <edencaox@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/engine"
+  ],
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "eslint": "^5.15.3",
+    "jest": "^24.5.0",
+    "ts-jest": "^24.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@types/node": "^11.11.7",
+    "ts-node": "^8.0.3"
+  }
+}

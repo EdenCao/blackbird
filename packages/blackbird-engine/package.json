@@ -1,0 +1,13 @@
+{
+  "name": "blackbird-engine",
+  "version": "0.0.0",
+  "main": "dist/index.js",
+  "file": [
+    "dist"
+  ],
+  "author": "EdenCao <edencaox@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "^3.0.7"
+  }
+}
