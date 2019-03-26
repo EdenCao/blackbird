@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "workspaces": [
-    "packages/engine"
+    "packages/*"
   ],
   "scripts": {
     "test": "jest",

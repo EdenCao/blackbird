@@ -91,4 +91,8 @@ typings/
 # osx Local files
 .DS_Store
 
+# bundler
+.cache/
+.dist/
+
 # End of https://www.gitignore.io/api/node
